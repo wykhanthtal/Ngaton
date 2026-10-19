@@ -1,0 +1,59 @@
+{
+  "5115562507": {
+    "url": "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=105f0247ab9d&gw_sn=H1T8102000808&gw_address=192.168.10.1&gw_port=2060&ip=192.168.10.247&mac=ba:64:50:8b:fc:8a&slot_num=15&nasip=192.168.1.123&ssid=WiFi%5F6011&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C121&chap_challenge=%5C063%5C324%5C143%5C075%5C220%5C001%5C156%5C327%5C332%5C144%5C262%5C174%5C147%5C213%5C103%5C114",
+    "mode": "num6",
+    "counter": 600000,
+    "tried": 5343,
+    "hits": 6,
+    "limits": 0,
+    "net": 0,
+    "failed": 0,
+    "last_hit": "047545",
+    "started_at": "2026-10-19 16:37:09",
+    "updated_at": "2026-10-19 16:38:26",
+    "hit_details": [
+      {
+        "code": "783165",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "d464e9265897481b8e4bf03507d43b79",
+        "at": "2026-10-19 16:37:31"
+      },
+      {
+        "code": "625638",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "285c366bd8374b9b8f26cf2c18697b3b",
+        "at": "2026-10-19 16:37:38"
+      },
+      {
+        "code": "806885",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "b5c3728d797a41e0a3bad4d887c91f40",
+        "at": "2026-10-19 16:37:49"
+      },
+      {
+        "code": "501274",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "55196306422242f8a0bc766555b2ea70",
+        "at": "2026-10-19 16:37:58"
+      },
+      {
+        "code": "325763",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "36958f5ff2034cf18e107f6060d192ee",
+        "at": "2026-10-19 16:38:02"
+      },
+      {
+        "code": "047545",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "4fc4b110289c49c89673a2214c7987c6",
+        "at": "2026-10-19 16:38:05"
+      }
+    ]
+  }
+}
