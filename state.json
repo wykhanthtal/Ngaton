@@ -1,0 +1,16 @@
+{
+  "8337406709": {
+    "url": "https://portal-mm-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=984a6be1a481&gw_sn=H1TA1EK005158&gw_address=192.168.33.1&gw_port=2060&ip=192.168.33.37&mac=1c:2a:b0:12:73:ee&slot_num=16&nasip=192.168.1.207&ssid=VLAN50&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C001&chap_challenge=%5C252%5C041%5C141%5C115%5C076%5C004%5C222%5C042%5C321%5C363%5C107%5C270%5C275%5C035%5C302%5C271",
+    "mode": "num6",
+    "counter": 600000,
+    "tried": 0,
+    "hits": 0,
+    "limits": 0,
+    "net": 11794,
+    "failed": 0,
+    "last_hit": null,
+    "started_at": "2026-10-19 16:47:22",
+    "updated_at": "2026-10-19 17:28:48",
+    "hit_details": []
+  }
+}
