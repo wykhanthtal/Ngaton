@@ -1,3 +1,12 @@
 __pycache__/
 *.pyc
-*.log
+keys.json
+users.json
+bot_users.json
+admin_ids.json
+state.json
+tried_*.txt
+hits_*.txt
+portal_url_*.txt
+bot_token.txt
+.env
