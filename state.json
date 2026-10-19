@@ -3,14 +3,14 @@
     "url": "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=105f0247ab9d&gw_sn=H1T8102000808&gw_address=192.168.10.1&gw_port=2060&ip=192.168.10.247&mac=ba:64:50:8b:fc:8a&slot_num=15&nasip=192.168.1.123&ssid=WiFi%5F6011&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C121&chap_challenge=%5C063%5C324%5C143%5C075%5C220%5C001%5C156%5C327%5C332%5C144%5C262%5C174%5C147%5C213%5C103%5C114",
     "mode": "num6",
     "counter": 600000,
-    "tried": 11893,
-    "hits": 16,
+    "tried": 826091,
+    "hits": 147,
     "limits": 0,
     "net": 0,
     "failed": 0,
-    "last_hit": "220040",
+    "last_hit": "781284",
     "started_at": "2026-10-19 16:49:28",
-    "updated_at": "2026-10-19 16:50:09",
+    "updated_at": "2026-10-19 22:12:00",
     "hit_details": [
       {
         "code": "783165",
@@ -123,6 +123,923 @@
         "time_str": "1h 0m",
         "active_token": "873acbd930b1487da81d373ed86511be",
         "at": "2026-10-19 16:49:51"
+      },
+      {
+        "code": "814238",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "5fe563e31f7c41e7b3398379be7ba504",
+        "at": "2026-10-19 21:07:22"
+      },
+      {
+        "code": "717230",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "13e76f57fe334b74858dca6861136601",
+        "at": "2026-10-19 21:07:30"
+      },
+      {
+        "code": "287673",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "aea204d7deba425dbd33bc3428b26c3e",
+        "at": "2026-10-19 21:07:31"
+      },
+      {
+        "code": "322660",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "9ba888be30f64747b82e4f5ba6fd4a38",
+        "at": "2026-10-19 21:07:33"
+      },
+      {
+        "code": "175435",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "e6895560b9144e709c47763e9661a939",
+        "at": "2026-10-19 21:07:38"
+      },
+      {
+        "code": "101204",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "397c3b58aede44449e79e10b30785291",
+        "at": "2026-10-19 21:07:42"
+      },
+      {
+        "code": "784848",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "cd80659622e54963ab7daf549773faba",
+        "at": "2026-10-19 21:09:25"
+      },
+      {
+        "code": "801675",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "2beb5c02d0174c87bd6a5b3a7992fe2d",
+        "at": "2026-10-19 21:09:39"
+      },
+      {
+        "code": "244661",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "eaedd66051f04b0eb3829356cd69c0c2",
+        "at": "2026-10-19 21:09:43"
+      },
+      {
+        "code": "381887",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "142bc37810234096ae3842d32261f6de",
+        "at": "2026-10-19 21:09:47"
+      },
+      {
+        "code": "644853",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "6db59459c850404d8db3acd47602c9d6",
+        "at": "2026-10-19 21:11:42"
+      },
+      {
+        "code": "808464",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "121c654cdf4f41e2ba3675663a5dea51",
+        "at": "2026-10-19 21:13:25"
+      },
+      {
+        "code": "842340",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "7bda622ca3884de782fc68340befa4d6",
+        "at": "2026-10-19 21:13:32"
+      },
+      {
+        "code": "256687",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "213a79675451415c926217452dbcc070",
+        "at": "2026-10-19 21:13:38"
+      },
+      {
+        "code": "570816",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "fe55f6ea796441c29225923481467575",
+        "at": "2026-10-19 21:13:40"
+      },
+      {
+        "code": "185315",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "287764b5f742432395ab62a1287e3912",
+        "at": "2026-10-19 21:13:50"
+      },
+      {
+        "code": "712327",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "575259665124486987d2993973f44373",
+        "at": "2026-10-19 21:13:55"
+      },
+      {
+        "code": "288532",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "886aa489cbca46e19c68b167d46589ac",
+        "at": "2026-10-19 21:15:44"
+      },
+      {
+        "code": "681143",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "6207ef40169b4739b7813b110b292d44",
+        "at": "2026-10-19 21:15:49"
+      },
+      {
+        "code": "485456",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "f1789da1fe6d42c984adc0d2b0f94ce5",
+        "at": "2026-10-19 21:17:32"
+      },
+      {
+        "code": "768675",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "c2b19cddbf7e47a780322c6ccb5354f1",
+        "at": "2026-10-19 21:17:42"
+      },
+      {
+        "code": "371745",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "ec4bba2329ea4cafa04683538209258d",
+        "at": "2026-10-19 21:17:48"
+      },
+      {
+        "code": "751205",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "af53e3aaf54f46b7b953cac3e34c89cd",
+        "at": "2026-10-19 21:19:20"
+      },
+      {
+        "code": "823867",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "d88dc01ac5844f9fb45928a48913f037",
+        "at": "2026-10-19 21:19:42"
+      },
+      {
+        "code": "353138",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "9d3ad141563f4477bd6fdfbe6a6812df",
+        "at": "2026-10-19 21:19:48"
+      },
+      {
+        "code": "444557",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "7ba7b34a98004dc9a12e9c4da6493928",
+        "at": "2026-10-19 21:19:52"
+      },
+      {
+        "code": "237363",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "00ad4b17fc36482ab1608c3b2f13664f",
+        "at": "2026-10-19 21:21:36"
+      },
+      {
+        "code": "477834",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "853858abf3fe45fc96bdc130c90e3fbe",
+        "at": "2026-10-19 21:22:59"
+      },
+      {
+        "code": "688764",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "0b140395180e42c3b955a8d69dd019c4",
+        "at": "2026-10-19 21:23:11"
+      },
+      {
+        "code": "771100",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "b985420c5dbf467fa6b307b9e736a7db",
+        "at": "2026-10-19 21:23:15"
+      },
+      {
+        "code": "476066",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "0826f5c5d147434384e895b8388bfb60",
+        "at": "2026-10-19 21:25:03"
+      },
+      {
+        "code": "442703",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "ad95cc111fcb4e2fb57e06273fe7897f",
+        "at": "2026-10-19 21:25:11"
+      },
+      {
+        "code": "881715",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "ca22b716fdd3407eb8693421b70dbd54",
+        "at": "2026-10-19 21:25:21"
+      },
+      {
+        "code": "676536",
+        "plan": "1Day",
+        "time_str": "23h 20m",
+        "active_token": "4e49a2bf31234399888b69ed22efa6e4",
+        "at": "2026-10-19 21:26:53"
+      },
+      {
+        "code": "068436",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "00ae168114f040de9d0c3d334892b038",
+        "at": "2026-10-19 21:27:04"
+      },
+      {
+        "code": "806425",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "e7d9198e8d914a7abc03d41130779570",
+        "at": "2026-10-19 21:28:30"
+      },
+      {
+        "code": "644332",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "b75aa4b0bbff4477bb08a98d1a3e01c2",
+        "at": "2026-10-19 21:28:43"
+      },
+      {
+        "code": "126120",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "097ba9f76dd547b7931cba3c45ccc5ce",
+        "at": "2026-10-19 21:28:49"
+      },
+      {
+        "code": "375127",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "5c2812428540486887271241979317f6",
+        "at": "2026-10-19 21:29:06"
+      },
+      {
+        "code": "685524",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "2a8265ce1e9841db8ba58958464c8d2d",
+        "at": "2026-10-19 21:30:28"
+      },
+      {
+        "code": "632634",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "b132928b085d4ae6968ece977b486004",
+        "at": "2026-10-19 21:30:48"
+      },
+      {
+        "code": "362271",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "51ab67b358fe43c79de01325215b4b52",
+        "at": "2026-10-19 21:30:59"
+      },
+      {
+        "code": "141550",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "506643cd08384a8a8a0b682852a0dc62",
+        "at": "2026-10-19 21:31:58"
+      },
+      {
+        "code": "388614",
+        "plan": "1Day",
+        "time_str": "23h 20m",
+        "active_token": "37329d5eaabe474ea9c252c04c2ce395",
+        "at": "2026-10-19 21:32:19"
+      },
+      {
+        "code": "623627",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "e3ca453492d44325a85e5f266a464761",
+        "at": "2026-10-19 21:32:28"
+      },
+      {
+        "code": "478827",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "db6dc3185fe44630bf660805e065f0ee",
+        "at": "2026-10-19 21:32:52"
+      },
+      {
+        "code": "716766",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "e213acb1b22b438a9be897a90c22fec8",
+        "at": "2026-10-19 21:34:15"
+      },
+      {
+        "code": "282804",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "5e34606c4acb4dcd8e35e4eb771fbceb",
+        "at": "2026-10-19 21:34:38"
+      },
+      {
+        "code": "866865",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "98414026023a4ba8a21947e82f90d6dc",
+        "at": "2026-10-19 21:35:30"
+      },
+      {
+        "code": "068818",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "e7780304854d42618dc87a0c9992a5fa",
+        "at": "2026-10-19 21:36:00"
+      },
+      {
+        "code": "437411",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "31ee2b60a62a4189966abd7ddd272ae2",
+        "at": "2026-10-19 21:36:11"
+      },
+      {
+        "code": "501324",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "7908a3b43b8c45a9b1fc37d9686ba37a",
+        "at": "2026-10-19 21:36:21"
+      },
+      {
+        "code": "117620",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "cf91b02697ae49389c3d9651280f6adb",
+        "at": "2026-10-19 21:37:43"
+      },
+      {
+        "code": "062543",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "861f2367d53640859a59f306cc6fbb90",
+        "at": "2026-10-19 21:37:53"
+      },
+      {
+        "code": "802745",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "c4b5f92c14904e048fe6ec036341eed4",
+        "at": "2026-10-19 21:38:08"
+      },
+      {
+        "code": "458635",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "7cee0f049e764472b2a4a35de442e648",
+        "at": "2026-10-19 21:38:14"
+      },
+      {
+        "code": "647658",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "b118ac79c23b4920a9d7cd9de32302bb",
+        "at": "2026-10-19 21:38:30"
+      },
+      {
+        "code": "276545",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "17b504cdc11947b1b4f529242fdd30e8",
+        "at": "2026-10-19 21:38:42"
+      },
+      {
+        "code": "873764",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "55507e37a4ec4fb1b2f6315b63f25fc5",
+        "at": "2026-10-19 21:38:52"
+      },
+      {
+        "code": "487518",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "98cfe09ab6354abbb2412b755eb256ce",
+        "at": "2026-10-19 21:40:04"
+      },
+      {
+        "code": "710068",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "8c67f9ea713145adb9c404872345858c",
+        "at": "2026-10-19 21:40:19"
+      },
+      {
+        "code": "613244",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "971cf331b4cf44bd8b416e630134e6c4",
+        "at": "2026-10-19 21:41:06"
+      },
+      {
+        "code": "272540",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "b2a14b35a6f24c54bce75cadcca2dffc",
+        "at": "2026-10-19 21:41:12"
+      },
+      {
+        "code": "561168",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "fd39275e67934f03b8bcf17e567dabc3",
+        "at": "2026-10-19 21:41:30"
+      },
+      {
+        "code": "875741",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "a4e70a8c06af4cc79b23f1d5ff6811a8",
+        "at": "2026-10-19 21:41:43"
+      },
+      {
+        "code": "102281",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "7f3c37d53f73428e913f4a1b6e0721cf",
+        "at": "2026-10-19 21:41:57"
+      },
+      {
+        "code": "442832",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "3ad9aa55a7314cf9b0d2eca5e46c7810",
+        "at": "2026-10-19 21:42:04"
+      },
+      {
+        "code": "312562",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "c6498811643d493ab39f7c4490dbf81a",
+        "at": "2026-10-19 21:42:22"
+      },
+      {
+        "code": "415166",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "7b80ed95c15d46d0850bf41532ae7ece",
+        "at": "2026-10-19 21:43:17"
+      },
+      {
+        "code": "427066",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "152b1b19de79417495afbf67f3c7008a",
+        "at": "2026-10-19 21:43:23"
+      },
+      {
+        "code": "501285",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "cd337f2fd8be493488dbd9d5090fcbe0",
+        "at": "2026-10-19 21:43:27"
+      },
+      {
+        "code": "476110",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "4403865f58ae4082a0cc6d06c262b6bc",
+        "at": "2026-10-19 21:43:43"
+      },
+      {
+        "code": "651741",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "c167ca1915344f5596cfa1942e58d9f5",
+        "at": "2026-10-19 21:43:55"
+      },
+      {
+        "code": "386753",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "df847a28a70540869bfc77921bc03180",
+        "at": "2026-10-19 21:45:23"
+      },
+      {
+        "code": "268455",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "0c496067138a47d9a6dfbbb66002aba4",
+        "at": "2026-10-19 21:45:46"
+      },
+      {
+        "code": "642081",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "c0c23cd83bf04d4fb06ca2eb628572f9",
+        "at": "2026-10-19 21:46:57"
+      },
+      {
+        "code": "478647",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "7d8189d21a664a83b35059656a2ace22",
+        "at": "2026-10-19 21:47:24"
+      },
+      {
+        "code": "437002",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "562d2d499a5a426dbe1048868439486a",
+        "at": "2026-10-19 21:47:45"
+      },
+      {
+        "code": "827887",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "90d3d8dc429b4659a5a6b841a355ecaf",
+        "at": "2026-10-19 21:48:47"
+      },
+      {
+        "code": "820651",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "09530147b17942128044b722ffe2438c",
+        "at": "2026-10-19 21:48:53"
+      },
+      {
+        "code": "766148",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "d209824288904ea7aaddca4967b11097",
+        "at": "2026-10-19 21:49:01"
+      },
+      {
+        "code": "803112",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "4c7b16fcdb544b888223ca829658af83",
+        "at": "2026-10-19 21:49:04"
+      },
+      {
+        "code": "406400",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "90d2d03becef4ed38c3a88d297609e4d",
+        "at": "2026-10-19 21:49:21"
+      },
+      {
+        "code": "254820",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "998f6687e7d24257822f2fc927bc6c28",
+        "at": "2026-10-19 21:49:28"
+      },
+      {
+        "code": "600285",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "939318a9684e44dab9f125aef93dfbc8",
+        "at": "2026-10-19 21:49:35"
+      },
+      {
+        "code": "043873",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "dba3c8d1c8fb4046a527f3c4e536723f",
+        "at": "2026-10-19 21:50:57"
+      },
+      {
+        "code": "270834",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "8974776324e04b52a46b0f013dd7ce73",
+        "at": "2026-10-19 21:51:09"
+      },
+      {
+        "code": "728004",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "7a2066e1abf34dd58d13b52beb9026d4",
+        "at": "2026-10-19 21:51:11"
+      },
+      {
+        "code": "401810",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "f1759382102b4fe0873847d2a281f544",
+        "at": "2026-10-19 21:52:27"
+      },
+      {
+        "code": "017845",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "6b86932069f743e7a33febd7d9fb2c3b",
+        "at": "2026-10-19 21:52:36"
+      },
+      {
+        "code": "383267",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "ef6c090ef4fd43b3982b04eb4cd941e3",
+        "at": "2026-10-19 21:52:44"
+      },
+      {
+        "code": "852587",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "7cfa09efd7164b66bde86e41c25ecefb",
+        "at": "2026-10-19 21:53:24"
+      },
+      {
+        "code": "381743",
+        "plan": "1Day",
+        "time_str": "23h 20m",
+        "active_token": "f1f8e8eb113b4ed6923e93baa410c934",
+        "at": "2026-10-19 21:54:25"
+      },
+      {
+        "code": "722400",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "edc2dfa1bdd24cedaa93d7f0ef9e8e93",
+        "at": "2026-10-19 21:54:32"
+      },
+      {
+        "code": "563746",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "c3fdcb2861354cb1a90d9f889b2da39d",
+        "at": "2026-10-19 21:54:57"
+      },
+      {
+        "code": "784155",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "86bc7b52e9964d6f9d222a00ae76878f",
+        "at": "2026-10-19 21:56:18"
+      },
+      {
+        "code": "812482",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "c5ad6e72d28243f7895e790922c7d4d7",
+        "at": "2026-10-19 21:56:53"
+      },
+      {
+        "code": "064244",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "e4e4a4e71f074c6e813d9fe9f3090593",
+        "at": "2026-10-19 21:57:58"
+      },
+      {
+        "code": "038273",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "ea918cc80e1d4e14a5eddebab700f212",
+        "at": "2026-10-19 21:58:16"
+      },
+      {
+        "code": "621373",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "0a436b5395e04a248205ab5172f6281a",
+        "at": "2026-10-19 21:58:21"
+      },
+      {
+        "code": "370175",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "98e6a0de50ae4494a6531b92cc80bc3b",
+        "at": "2026-10-19 21:58:41"
+      },
+      {
+        "code": "071218",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "57c22f76c7854e4c854d0c9fb3f29ae8",
+        "at": "2026-10-19 21:58:43"
+      },
+      {
+        "code": "673586",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "5ae6f5d3c579447cb29f26a6f8685180",
+        "at": "2026-10-19 21:58:45"
+      },
+      {
+        "code": "081332",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "6f90ca7f77e942d7a736f5bb146be267",
+        "at": "2026-10-19 21:58:56"
+      },
+      {
+        "code": "731202",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "6c6fe8914404458199e7ff17e9edb19f",
+        "at": "2026-10-19 22:00:20"
+      },
+      {
+        "code": "350677",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "adba546e9c14424d8eb79dcd8206ce3a",
+        "at": "2026-10-19 22:00:37"
+      },
+      {
+        "code": "265425",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "b49d50fea7704578bc0ff07ecda4dadf",
+        "at": "2026-10-19 22:00:48"
+      },
+      {
+        "code": "080535",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "5f4a55d8f7174b018e62cb9bec3f9d58",
+        "at": "2026-10-19 22:01:05"
+      },
+      {
+        "code": "078531",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "094154e327ab4cf38a4120d23541b354",
+        "at": "2026-10-19 22:02:13"
+      },
+      {
+        "code": "782100",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "74da4e0a5b2f40a0bae129760a7c8605",
+        "at": "2026-10-19 22:02:26"
+      },
+      {
+        "code": "050674",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "b593db2b33194c7ab2e20277aa751bfb",
+        "at": "2026-10-19 22:02:33"
+      },
+      {
+        "code": "868265",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "acbe7370555044dba25524632f802523",
+        "at": "2026-10-19 22:02:35"
+      },
+      {
+        "code": "442008",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "90bc67dbb1424de6b9d0af101b54d691",
+        "at": "2026-10-19 22:02:52"
+      },
+      {
+        "code": "063137",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "4f2911d5e6ca43d39ecac12c722d4023",
+        "at": "2026-10-19 22:03:05"
+      },
+      {
+        "code": "464716",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "95d550697f104f9e94c44ebb4166087e",
+        "at": "2026-10-19 22:03:10"
+      },
+      {
+        "code": "706000",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "f3b5e84d9cd8473ab64529887433df47",
+        "at": "2026-10-19 22:03:14"
+      },
+      {
+        "code": "246120",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "5abed7d0f6334c749b0a47a1e8052212",
+        "at": "2026-10-19 22:04:10"
+      },
+      {
+        "code": "687270",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "0f65671f0d464f58b6b668148eadadc0",
+        "at": "2026-10-19 22:04:12"
+      },
+      {
+        "code": "157408",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "4467224ecef945b88faa4be8208919b4",
+        "at": "2026-10-19 22:04:32"
+      },
+      {
+        "code": "237831",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "6acec9902b794c1fabf231839a361694",
+        "at": "2026-10-19 22:04:34"
+      },
+      {
+        "code": "644055",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "739c869e94874724a137e5f5524cc716",
+        "at": "2026-10-19 22:04:46"
+      },
+      {
+        "code": "772788",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "e0b53f95b0984acc832d578fe280f0b6",
+        "at": "2026-10-19 22:05:27"
+      },
+      {
+        "code": "863068",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "3b735441788f4d4d8600e15dda8ba668",
+        "at": "2026-10-19 22:06:29"
+      },
+      {
+        "code": "653162",
+        "plan": "1Day",
+        "time_str": "23h 20m",
+        "active_token": "b736e1d1f6b841359e1a0160ccd12b4e",
+        "at": "2026-10-19 22:06:50"
+      },
+      {
+        "code": "024010",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "d17db2bc033740c28a6e27a37e0a1809",
+        "at": "2026-10-19 22:06:59"
+      },
+      {
+        "code": "055853",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "9b409f7108064e3db9046f9a957f4230",
+        "at": "2026-10-19 22:08:19"
+      },
+      {
+        "code": "003386",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "1bc5c3ac88e74957bf3b97f45aeb333a",
+        "at": "2026-10-19 22:08:25"
+      },
+      {
+        "code": "552376",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "cad1803b36ec42348984e1010d477427",
+        "at": "2026-10-19 22:08:52"
+      },
+      {
+        "code": "373444",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "73e4dc275f974e06972b68bb812ea0e1",
+        "at": "2026-10-19 22:10:09"
+      },
+      {
+        "code": "713141",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "75300e964d214d00b8f48fe61d3b6418",
+        "at": "2026-10-19 22:10:16"
+      },
+      {
+        "code": "781284",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "21768cfc4c314d38998009d2a7d4e401",
+        "at": "2026-10-19 22:11:00"
       }
     ]
   }
