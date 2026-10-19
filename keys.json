@@ -7,14 +7,5 @@
     "created_at": 1792425786.2518804,
     "used_by": null,
     "activated_expires_at": 0
-  },
-  "X8K8-XP7J-W67S-LIS1": {
-    "duration_sec": 3600,
-    "label": "1 Hour",
-    "user_id": 111111,
-    "created_by": 5115562507,
-    "created_at": 1792426049.820153,
-    "used_by": null,
-    "activated_expires_at": 0
   }
 }
