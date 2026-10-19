@@ -16,5 +16,14 @@
     "created_at": 1792426049.820153,
     "used_by": null,
     "activated_expires_at": 0
+  },
+  "GIAF-NPM2-YXFB-BW68": {
+    "duration_sec": 0,
+    "label": "♾ Unlimited",
+    "user_id": 8337406709,
+    "created_by": 7856294500,
+    "created_at": 1792428484.6006315,
+    "used_by": null,
+    "activated_expires_at": 0
   }
 }
