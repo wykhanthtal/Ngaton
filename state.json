@@ -3,14 +3,14 @@
     "url": "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=105f0247ab9d&gw_sn=H1T8102000808&gw_address=192.168.10.1&gw_port=2060&ip=192.168.10.247&mac=ba:64:50:8b:fc:8a&slot_num=15&nasip=192.168.1.123&ssid=WiFi%5F6011&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C121&chap_challenge=%5C063%5C324%5C143%5C075%5C220%5C001%5C156%5C327%5C332%5C144%5C262%5C174%5C147%5C213%5C103%5C114",
     "mode": "num6",
     "counter": 600000,
-    "tried": 5343,
-    "hits": 6,
+    "tried": 7524,
+    "hits": 12,
     "limits": 0,
     "net": 0,
     "failed": 0,
-    "last_hit": "047545",
+    "last_hit": "067806",
     "started_at": "2026-10-19 16:37:09",
-    "updated_at": "2026-10-19 16:38:28",
+    "updated_at": "2026-10-19 16:43:58",
     "hit_details": [
       {
         "code": "783165",
@@ -53,6 +53,48 @@
         "time_str": "3h 0m",
         "active_token": "4fc4b110289c49c89673a2214c7987c6",
         "at": "2026-10-19 16:38:05"
+      },
+      {
+        "code": "225385",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "ff146562704242c889209a78f97c4b2f",
+        "at": "2026-10-19 16:43:31"
+      },
+      {
+        "code": "335872",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "831b75fd6b5f42a2b78ea27e9b26b717",
+        "at": "2026-10-19 16:43:34"
+      },
+      {
+        "code": "313604",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "809f22b6927747f888a594bd81a65b0e",
+        "at": "2026-10-19 16:43:43"
+      },
+      {
+        "code": "641073",
+        "plan": "1H",
+        "time_str": "1h 0m",
+        "active_token": "7bb1de4355644bea8a1b44c1325d29a1",
+        "at": "2026-10-19 16:43:48"
+      },
+      {
+        "code": "377572",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "47e9ef1adcca452da8f8683c267fc262",
+        "at": "2026-10-19 16:43:49"
+      },
+      {
+        "code": "067806",
+        "plan": "3H",
+        "time_str": "3h 0m",
+        "active_token": "173ed7d1ad864fe58ac1ad497d5d4214",
+        "at": "2026-10-19 16:43:55"
       }
     ]
   }
