@@ -1,1 +1,73 @@
-{}
+{
+  "8337406709": {
+    "url": "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=c4b25bf98f07&gw_sn=H1U3247000617&gw_address=150.0.0.1&gw_port=2060&ip=150.0.237.113&mac=58:20:59:a0:ab:4a&slot_num=14&nasip=192.168.1.218&ssid=VLAN150&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C254&chap_challenge=%5C212%5C217%5C265%5C235%5C334%5C362%5C206%5C033%5C237%5C317%5C157%5C323%5C224%5C222%5C300%5C127",
+    "mode": "num6",
+    "counter": 600000,
+    "tried": 93102,
+    "hits": 8,
+    "limits": 0,
+    "net": 780,
+    "failed": 0,
+    "last_hit": "068825",
+    "started_at": "2026-10-19 16:47:22",
+    "updated_at": "2026-10-19 17:37:17",
+    "hit_details": [
+      {
+        "code": "481871",
+        "plan": "2hour",
+        "time_str": "2h 0m",
+        "active_token": "cd42b13750cd40f585825c0322cc563e",
+        "at": "2026-10-19 17:30:51"
+      },
+      {
+        "code": "504614",
+        "plan": "1GB",
+        "time_str": "36h 0m",
+        "active_token": "c7a3c91c421c4e6585ad51ecad459790",
+        "at": "2026-10-19 17:30:59"
+      },
+      {
+        "code": "186063",
+        "plan": "2hour",
+        "time_str": "2h 0m",
+        "active_token": "792ddb67ca8e4bd09e1c68589954908d",
+        "at": "2026-10-19 17:31:05"
+      },
+      {
+        "code": "880171",
+        "plan": "2hour",
+        "time_str": "2h 0m",
+        "active_token": "ff9a90f6e24f4ebe80d8eb7086defcb0",
+        "at": "2026-10-19 17:32:04"
+      },
+      {
+        "code": "351171",
+        "plan": "1GB",
+        "time_str": "36h 0m",
+        "active_token": "c98ef6076e9146f28310cbbda2a2e9f2",
+        "at": "2026-10-19 17:33:02"
+      },
+      {
+        "code": "554530",
+        "plan": "1GB",
+        "time_str": "36h 0m",
+        "active_token": "f55a229246454f6c9b8afbec8304075b",
+        "at": "2026-10-19 17:35:11"
+      },
+      {
+        "code": "161437",
+        "plan": "1GB",
+        "time_str": "36h 0m",
+        "active_token": "ccd650c1f9f044b8bbc624bc42fe3e6e",
+        "at": "2026-10-19 17:35:16"
+      },
+      {
+        "code": "068825",
+        "plan": "5Hour",
+        "time_str": "5h 0m",
+        "active_token": "7d5d60c2764e4a6e8060b413fbdb1756",
+        "at": "2026-10-19 17:36:05"
+      }
+    ]
+  }
+}
