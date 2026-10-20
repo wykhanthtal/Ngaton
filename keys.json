@@ -42,7 +42,8 @@
     "user_id": 1970880877,
     "created_by": 7856294500,
     "created_at": 1792500253.4283824,
-    "used_by": null,
-    "activated_expires_at": 0
+    "used_by": 1970880877,
+    "activated_expires_at": 1795092285,
+    "used_at": 1792500286.9428544
   }
 }
