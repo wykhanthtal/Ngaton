@@ -35,5 +35,14 @@
     "created_at": 1792500080.6767936,
     "used_by": null,
     "activated_expires_at": 0
+  },
+  "2GNA-CZ6A-JTCG-IRV2": {
+    "duration_sec": 2592000,
+    "label": "30 Days",
+    "user_id": 1970880877,
+    "created_by": 7856294500,
+    "created_at": 1792500253.4283824,
+    "used_by": null,
+    "activated_expires_at": 0
   }
 }
