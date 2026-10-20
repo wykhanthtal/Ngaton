@@ -1,1 +1,11 @@
-{}
+{
+  "EUAU-9JZD-8YQ4-L7V3": {
+    "duration_sec": 2592000,
+    "label": "30 Days",
+    "user_id": 1970880877,
+    "created_by": 7856294500,
+    "created_at": 1792464746.692406,
+    "used_by": null,
+    "activated_expires_at": 0
+  }
+}
