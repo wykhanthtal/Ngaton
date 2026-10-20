@@ -1056,5 +1056,76 @@
         "at": "2026-10-20 12:53:03"
       }
     ]
+  },
+  "1970880877": {
+    "url": "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=9cce8814fd30&gw_sn=H1U51RF00745A&gw_address=192.168.110.1&gw_port=2060&ip=192.168.110.57&mac=5a:50:af:a7:c4:1c&slot_num=11&nasip=192.168.1.105&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C123&chap_challenge=%5C162%5C311%5C215%5C111%5C010%5C044%5C162%5C057%5C154%5C365%5C126%5C216%5C336%5C254%5C045%5C225&v=2",
+    "mode": "num6",
+    "counter": 600000,
+    "tried": 29872,
+    "hits": 8,
+    "limits": 0,
+    "net": 0,
+    "failed": 0,
+    "last_hit": "042426",
+    "started_at": "2026-10-20 13:20:33",
+    "updated_at": "2026-10-20 13:23:56",
+    "hit_details": [
+      {
+        "code": "887804",
+        "plan": "2gb",
+        "time_str": "5h 0m",
+        "active_token": "cf5f5627f68d4fc38d2eff376a71f5fb",
+        "at": "2026-10-20 13:21:35"
+      },
+      {
+        "code": "076240",
+        "plan": "2gb",
+        "time_str": "5h 0m",
+        "active_token": "6af8d3353dd04573930a897688826c42",
+        "at": "2026-10-20 13:21:38"
+      },
+      {
+        "code": "407364",
+        "plan": "2gb",
+        "time_str": "5h 0m",
+        "active_token": "f6ef6c36f3ed4741a9bd8c7691121081",
+        "at": "2026-10-20 13:21:44"
+      },
+      {
+        "code": "645455",
+        "plan": "2gb",
+        "time_str": "5h 0m",
+        "active_token": "3b448ff4e2534a32b601a6473fdebc7b",
+        "at": "2026-10-20 13:21:47"
+      },
+      {
+        "code": "775852",
+        "plan": "2gb",
+        "time_str": "5h 0m",
+        "active_token": "8c349e37a54c4666aa60dc3f0201c965",
+        "at": "2026-10-20 13:21:52"
+      },
+      {
+        "code": "828406",
+        "plan": "2Hr",
+        "time_str": "2h 0m",
+        "active_token": "04d351ca44f64723842e934a96b81405",
+        "at": "2026-10-20 13:23:21"
+      },
+      {
+        "code": "721311",
+        "plan": "1gb",
+        "time_str": "2h 0m",
+        "active_token": "89fd7e4701884b7787832edff599a2a6",
+        "at": "2026-10-20 13:23:29"
+      },
+      {
+        "code": "042426",
+        "plan": "4gb",
+        "time_str": "5h 0m",
+        "active_token": "689965359428431b944a9d942ac07672",
+        "at": "2026-10-20 13:23:32"
+      }
+    ]
   }
 }
