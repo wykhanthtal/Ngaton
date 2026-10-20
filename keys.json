@@ -16,5 +16,14 @@
     "created_at": 1792426049.820153,
     "used_by": null,
     "activated_expires_at": 0
+  },
+  "ZH6R-DYVG-80VY-MFZM": {
+    "duration_sec": 2592000,
+    "label": "30 Days",
+    "user_id": 8011305761,
+    "created_by": 5115562507,
+    "created_at": 1792495323.5749345,
+    "used_by": null,
+    "activated_expires_at": 0
   }
 }
