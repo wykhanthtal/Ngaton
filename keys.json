@@ -26,5 +26,14 @@
     "used_by": 8011305761,
     "activated_expires_at": 1795087399,
     "used_at": 1792495401.331458
+  },
+  "HZH9-XVKO-5A1Z-STYS": {
+    "duration_sec": 2592000,
+    "label": "30 Days",
+    "user_id": 8011305761,
+    "created_by": 7856294500,
+    "created_at": 1792500080.6767936,
+    "used_by": null,
+    "activated_expires_at": 0
   }
 }
