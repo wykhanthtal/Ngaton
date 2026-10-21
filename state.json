@@ -34,19 +34,5 @@
         "at": "2026-10-19 21:21:35"
       }
     ]
-  },
-  "5681779730": {
-    "url": "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=c0a476defff4&gw_sn=H1TK3B4008261&gw_address=192.168.110.1&gw_port=2060&ip=192.168.110.108&mac=22:ad:c0:3d:98:83&slot_num=28&nasip=192.168.1.10&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C075&chap_challenge=%5C161%5C015%5C005%5C224%5C343%5C374%5C274%5C332%5C005%5C010%5C247%5C056%5C016%5C340%5C225%5C046",
-    "mode": "num7",
-    "counter": 600000,
-    "tried": 0,
-    "hits": 0,
-    "limits": 0,
-    "net": 94705,
-    "failed": 0,
-    "last_hit": null,
-    "started_at": "2026-10-20 07:43:54",
-    "updated_at": "2026-10-21 00:08:38",
-    "hit_details": []
   }
 }
