@@ -34,5 +34,34 @@
         "at": "2026-10-19 21:21:35"
       }
     ]
+  },
+  "5681779730": {
+    "url": "https://portal-mm-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=984a6b95fc22&gw_sn=H1T635K001726&gw_address=192.168.20.1&gw_port=2060&ip=192.168.20.109&mac=e8:88:43:96:ed:48&slot_num=15&nasip=192.168.1.137&ssid=VLAN20&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C326&chap_challenge=%5C064%5C147%5C010%5C252%5C072%5C213%5C127%5C072%5C320%5C171%5C002%5C134%5C374%5C333%5C202%5C016&v=2",
+    "mode": "num6",
+    "counter": 600000,
+    "tried": 263086,
+    "hits": 2,
+    "limits": 0,
+    "net": 1970,
+    "failed": 0,
+    "last_hit": "484835",
+    "started_at": "2026-10-26 09:08:25",
+    "updated_at": "2026-10-26 09:51:48",
+    "hit_details": [
+      {
+        "code": "821633",
+        "plan": "1000Kyats",
+        "time_str": "0s",
+        "active_token": "df6bf46e0235429db40c3a8055cc5ed3",
+        "at": "2026-10-26 09:15:14"
+      },
+      {
+        "code": "484835",
+        "plan": "1000Kyats",
+        "time_str": "0s",
+        "active_token": "4b37392a115d401884635fce200b80b4",
+        "at": "2026-10-26 09:38:50"
+      }
+    ]
   }
 }
