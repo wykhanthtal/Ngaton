@@ -2,3 +2,4 @@
 ═══ URL: https://portal-mm-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=9cce880b0acf&gw_sn=H1U52K3000143&gw_address=192.168.110.1&gw_port=2060&ip=192.168.110.208&mac=36:2d:df:fa:15:b4&slot_num=14&nasip=192.168.1.91&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C300&chap_challenge=%5C014%5C243%5C277%5C043%5C011%5C142%5C137%5C325%5C311%5C116%5C075%5C167%5C215%5C125%5C063%5C306&v=2 ═══
 ──────────────────────────────────────────────────
 [2026-11-09 06:06:57] 476584 | ⏳ | ⏳
+[2026-11-09 06:07:05] 833064 | ⏳ | ⏳
