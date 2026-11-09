@@ -91,5 +91,69 @@
         "at": "2026-10-20 03:14:18"
       }
     ]
+  },
+  "1970880877": {
+    "url": "https://portal-mm-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=9cce880b0acf&gw_sn=H1U52K3000143&gw_address=192.168.110.1&gw_port=2060&ip=192.168.110.208&mac=36:2d:df:fa:15:b4&slot_num=14&nasip=192.168.1.91&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C300&chap_challenge=%5C014%5C243%5C277%5C043%5C011%5C142%5C137%5C325%5C311%5C116%5C075%5C167%5C215%5C125%5C063%5C306&v=2",
+    "mode": "num6",
+    "counter": 600000,
+    "tried": 12080,
+    "hits": 7,
+    "limits": 1,
+    "net": 1,
+    "failed": 0,
+    "last_hit": "631103",
+    "started_at": "2026-11-09 05:58:48",
+    "updated_at": "2026-11-09 06:09:53",
+    "hit_details": [
+      {
+        "code": "476584",
+        "plan": "2Hours",
+        "time_str": "2h 0m",
+        "active_token": "26fe68851abd497cae3ceb159ab560be",
+        "at": "2026-11-09 06:06:57"
+      },
+      {
+        "code": "833064",
+        "plan": "1Day",
+        "time_str": "23h 20m",
+        "active_token": "05d0b396e6df483aa66cb19331443667",
+        "at": "2026-11-09 06:07:05"
+      },
+      {
+        "code": "576323",
+        "plan": "1Day",
+        "time_str": "23h 20m",
+        "active_token": "78d7d7fdc64c4f9da6fbae447104bfb3",
+        "at": "2026-11-09 06:07:07"
+      },
+      {
+        "code": "131530",
+        "plan": "1Day",
+        "time_str": "23h 20m",
+        "active_token": "679f51ef7f8e4a329e64a8f323d367ab",
+        "at": "2026-11-09 06:07:10"
+      },
+      {
+        "code": "314210",
+        "plan": "2Hours",
+        "time_str": "2h 0m",
+        "active_token": "a1e3928e205543cda8ca26b320706e43",
+        "at": "2026-11-09 06:07:23"
+      },
+      {
+        "code": "274707",
+        "plan": "2Hours",
+        "time_str": "2h 0m",
+        "active_token": "9088d5bba2d4412abf0dbb62fe8eb7fe",
+        "at": "2026-11-09 06:08:04"
+      },
+      {
+        "code": "631103",
+        "plan": "1Day",
+        "time_str": "23h 20m",
+        "active_token": "908bde45234848748f61f146271de429",
+        "at": "2026-11-09 06:08:16"
+      }
+    ]
   }
 }
