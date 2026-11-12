@@ -1056,5 +1056,146 @@
         "at": "2026-10-20 12:53:03"
       }
     ]
+  },
+  "1970880877": {
+    "url": "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=c4b25bb4a7e9&gw_sn=H1U20HM00441A&gw_address=192.168.10.1&gw_port=2060&ip=192.168.10.128&mac=7c:8b:c1:01:87:35&slot_num=17&nasip=192.168.1.29&ssid=VLAN10&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C323&chap_challenge=%5C200%5C161%5C177%5C325%5C065%5C305%5C313%5C326%5C350%5C275%5C124%5C325%5C330%5C307%5C266%5C203",
+    "mode": "num6",
+    "counter": 600000,
+    "tried": 12106,
+    "hits": 18,
+    "limits": 0,
+    "net": 890,
+    "failed": 0,
+    "last_hit": "513844",
+    "started_at": "2026-11-09 06:07:51",
+    "updated_at": "2026-11-12 07:55:59",
+    "hit_details": [
+      {
+        "code": "414473",
+        "plan": "1hr",
+        "time_str": "1h 0m",
+        "active_token": "1df22dbb64e045c3916393113d6dd40f",
+        "at": "2026-11-12 07:52:15"
+      },
+      {
+        "code": "215587",
+        "plan": "1hr",
+        "time_str": "1h 0m",
+        "active_token": "a5f1ca873b6f49a5aed338736258f65b",
+        "at": "2026-11-12 07:52:28"
+      },
+      {
+        "code": "413856",
+        "plan": "1hr",
+        "time_str": "1h 0m",
+        "active_token": "2c69215ed4dd40dfb1f7d5016b93a3b5",
+        "at": "2026-11-12 07:52:30"
+      },
+      {
+        "code": "012766",
+        "plan": "1hour",
+        "time_str": "1h 0m",
+        "active_token": "7bcc6ae55d6d4eafae4ab8a17499d615",
+        "at": "2026-11-12 07:52:35"
+      },
+      {
+        "code": "027678",
+        "plan": "2hour",
+        "time_str": "2h 0m",
+        "active_token": "7a31541467d84994a49d154e19990d6b",
+        "at": "2026-11-12 07:52:40"
+      },
+      {
+        "code": "637625",
+        "plan": "1hour",
+        "time_str": "23h 20m",
+        "active_token": "a329c9837d5040f3961479e1345d18ee",
+        "at": "2026-11-12 07:52:48"
+      },
+      {
+        "code": "000811",
+        "plan": "2hour",
+        "time_str": "2h 0m",
+        "active_token": "081e6ab3bfad4559a0b675c63fa75d90",
+        "at": "2026-11-12 07:52:52"
+      },
+      {
+        "code": "601287",
+        "plan": "2hour",
+        "time_str": "2h 0m",
+        "active_token": "a94ce85d45ca442da45839a4a4a72abc",
+        "at": "2026-11-12 07:52:57"
+      },
+      {
+        "code": "545321",
+        "plan": "1hour",
+        "time_str": "23h 20m",
+        "active_token": "08478f72fff0487a95f977f8928ea590",
+        "at": "2026-11-12 07:53:00"
+      },
+      {
+        "code": "081244",
+        "plan": "1hour",
+        "time_str": "1h 0m",
+        "active_token": "bafa4ba58bca4b938c74bf946b6e7a99",
+        "at": "2026-11-12 07:53:10"
+      },
+      {
+        "code": "638122",
+        "plan": "2hr",
+        "time_str": "2h 0m",
+        "active_token": "f71cfe1cca3a4960a519cdd224967019",
+        "at": "2026-11-12 07:53:13"
+      },
+      {
+        "code": "316186",
+        "plan": "1day",
+        "time_str": "23h 20m",
+        "active_token": "01eafe26c5fc4eb99c2e5467567dd7de",
+        "at": "2026-11-12 07:53:15"
+      },
+      {
+        "code": "834044",
+        "plan": "1hour",
+        "time_str": "1h 0m",
+        "active_token": "674efa4875294b24b62b5c452d061578",
+        "at": "2026-11-12 07:53:23"
+      },
+      {
+        "code": "860653",
+        "plan": "1hour",
+        "time_str": "23h 20m",
+        "active_token": "6861533f5182482c8c25e0c881022d54",
+        "at": "2026-11-12 07:53:31"
+      },
+      {
+        "code": "387170",
+        "plan": "1hour",
+        "time_str": "1h 0m",
+        "active_token": "cc54361c321f453f81550b977fef54c3",
+        "at": "2026-11-12 07:53:36"
+      },
+      {
+        "code": "332307",
+        "plan": "1Gb",
+        "time_str": "48h 0m",
+        "active_token": "86f0cca2caf1423d88ad8a620855dc31",
+        "at": "2026-11-12 07:53:41"
+      },
+      {
+        "code": "271061",
+        "plan": "2hour",
+        "time_str": "2h 0m",
+        "active_token": "fd27362635674807b60180dcdfbd8b4b",
+        "at": "2026-11-12 07:53:52"
+      },
+      {
+        "code": "513844",
+        "plan": "1hour",
+        "time_str": "1h 0m",
+        "active_token": "8cddb91075e24139b758edddc8871c1d",
+        "at": "2026-11-12 07:54:11"
+      }
+    ]
   }
 }
