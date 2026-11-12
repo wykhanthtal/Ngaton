@@ -1061,14 +1061,14 @@
     "url": "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=c4b25bb4bace&gw_sn=H1U20HM002448&gw_address=192.168.110.1&gw_port=2060&ip=192.168.110.16&mac=ba:55:4d:83:ed:a9&slot_num=16&nasip=192.168.1.236&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C003&chap_challenge=%5C212%5C313%5C307%5C077%5C342%5C166%5C106%5C204%5C166%5C044%5C240%5C061%5C245%5C337%5C142%5C226",
     "mode": "num9",
     "counter": 600000,
-    "tried": 24555,
+    "tried": 33724,
     "hits": 0,
     "limits": 0,
-    "net": 2022,
+    "net": 3717,
     "failed": 0,
     "last_hit": null,
     "started_at": "2026-11-09 06:07:51",
-    "updated_at": "2026-11-12 11:45:15",
+    "updated_at": "2026-11-12 11:49:17",
     "hit_details": []
   }
 }
