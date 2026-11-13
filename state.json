@@ -91,5 +91,19 @@
         "at": "2026-10-20 03:14:18"
       }
     ]
+  },
+  "1970880877": {
+    "url": "https://portal-us1.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=9cce881fff62&gw_sn=H1U60GE00334A&gw_address=192.168.110.1&gw_port=2060&ip=192.168.110.92&mac=00:0a:f5:06:22:bc&slot_num=14&nasip=192.168.1.168&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2Fcaptive%2Eapple%2Ecom%2Fhotspot%2Ddetect%2Ehtml&chap_id=%5C045&chap_challenge=%5C207%5C145%5C116%5C116%5C323%5C140%5C044%5C020%5C103%5C305%5C161%5C307%5C305%5C367%5C007%5C146&v=2",
+    "mode": "mix6",
+    "counter": 600000,
+    "tried": 68626,
+    "hits": 0,
+    "limits": 0,
+    "net": 323,
+    "failed": 0,
+    "last_hit": null,
+    "started_at": "2026-11-09 05:58:48",
+    "updated_at": "2026-11-13 09:19:02",
+    "hit_details": []
   }
 }
